@@ -1,0 +1,1 @@
+{"hooks":{"UserPromptSubmit":[{"hooks":[{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/intent_guard.py\"","timeout":15,"type":"command"}]}]}}

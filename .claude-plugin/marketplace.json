@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"爬虫采集专家：目标站点→采集方案→反爬应对→数据清洗→交付（合规优先，红线拒绝）","name":"lhg-webscraper","source":"./"}]}
